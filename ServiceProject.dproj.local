@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.002,B:\WorkerThreadU.pas=B:\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=C:\Users\basok_n\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,C:\Users\basok_n\Documents\Embarcadero\Studio\Projects\Unit2.pas=B:\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,C:\Users\basok_n\Documents\Embarcadero\Studio\Projects\Unit2.dfm=B:\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,=B:\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,C:\Users\basok_n\Documents\Embarcadero\Studio\Projects\Project2.dproj=B:\ServiceProject.dproj</Transaction>
+    <Transaction>2022.10.01 23:49:54.525,=Y:\Testing_Job\Unit1.pas</Transaction>
+    <Transaction>2022.10.01 23:50:20.882,Y:\Testing_Job\uHTTPQuery.pas=Y:\Testing_Job\Unit1.pas</Transaction>
+    <Transaction>2022.10.04 23:38:01.926,=Y:\Testing_Job\Unit1.pas</Transaction>
+    <Transaction>2022.10.04 23:38:19.785,Y:\Testing_Job\uUtilities.pas=Y:\Testing_Job\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
