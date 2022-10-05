@@ -1,0 +1,139 @@
+05.10.2022 [4:25:32] > TSampleService.ServiceStart 
+05.10.2022 [4:25:32] > folder for XML: D:\Temp\XML\1; folder for JSON: D:\Temp\JSON 
+05.10.2022 [4:25:32] > Thread Running... 
+05.10.2022 [4:25:32] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:25:32] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:25:32] > # 
+05.10.2022 [4:25:32] > ...function getData... 
+05.10.2022 [4:25:33] > ...function getData... 
+05.10.2022 [4:25:33] > {"Cur_ID":431,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Ð”Ð¾Ð»Ð»Ð°Ñ€ Ð¡Ð¨Ð","Cur_OfficialRate":2.4860} 
+05.10.2022 [4:25:33] > ...function getData... 
+05.10.2022 [4:25:33] > {"Cur_ID":456,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"RUB","Cur_Scale":100,"Cur_Name":"Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ¸Ñ… Ñ€ÑƒÐ±Ð»ÐµÐ¹","Cur_OfficialRate":4.2415} 
+05.10.2022 [4:25:33] > ...function getData... 
+05.10.2022 [4:25:33] > {"Cur_ID":451,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"EUR","Cur_Scale":1,"Cur_Name":"Ð•Ð²Ñ€Ð¾","Cur_OfficialRate":2.3759} 
+05.10.2022 [4:25:43] > Íà ñåãîäíÿ ôàéëû ñ êóðñàìè âàëþò ñôîðìèðîâàíû 
+05.10.2022 [4:26:43] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:26:43] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:26:43] > # 
+05.10.2022 [4:26:43] > ...function getData... 
+05.10.2022 [4:26:43] > ...function getData... 
+05.10.2022 [4:26:44] > {"Cur_ID":431,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Ð”Ð¾Ð»Ð»Ð°Ñ€ Ð¡Ð¨Ð","Cur_OfficialRate":2.4860} 
+05.10.2022 [4:26:44] > ...function getData... 
+05.10.2022 [4:26:44] > {"Cur_ID":456,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"RUB","Cur_Scale":100,"Cur_Name":"Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ¸Ñ… Ñ€ÑƒÐ±Ð»ÐµÐ¹","Cur_OfficialRate":4.2415} 
+05.10.2022 [4:26:44] > ...function getData... 
+05.10.2022 [4:26:44] > {"Cur_ID":451,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"EUR","Cur_Scale":1,"Cur_Name":"Ð•Ð²Ñ€Ð¾","Cur_OfficialRate":2.3759} 
+05.10.2022 [4:26:54] > Íà ñåãîäíÿ ôàéëû ñ êóðñàìè âàëþò ñôîðìèðîâàíû 
+05.10.2022 [4:27:54] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:27:54] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:28:54] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:28:54] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:29:54] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:29:54] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:30:54] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:30:54] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:30:54] > # 
+05.10.2022 [4:30:54] > ...function getData... 
+05.10.2022 [4:30:54] > ...function getData... 
+05.10.2022 [4:30:54] > {"Cur_ID":431,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Ð”Ð¾Ð»Ð»Ð°Ñ€ Ð¡Ð¨Ð","Cur_OfficialRate":2.4860} 
+05.10.2022 [4:30:54] > ...function getData... 
+05.10.2022 [4:30:54] > {"Cur_ID":456,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"RUB","Cur_Scale":100,"Cur_Name":"Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ¸Ñ… Ñ€ÑƒÐ±Ð»ÐµÐ¹","Cur_OfficialRate":4.2415} 
+05.10.2022 [4:30:54] > ...function getData... 
+05.10.2022 [4:30:54] > {"Cur_ID":451,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"EUR","Cur_Scale":1,"Cur_Name":"Ð•Ð²Ñ€Ð¾","Cur_OfficialRate":2.3759} 
+05.10.2022 [4:31:04] > Íà ñåãîäíÿ ôàéëû ñ êóðñàìè âàëþò ñôîðìèðîâàíû 
+05.10.2022 [4:32:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:32:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:33:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:33:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:34:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:34:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:35:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:35:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:36:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:36:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:37:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:37:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:38:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:38:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:39:04] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:39:04] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:40:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:40:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:41:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:41:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:42:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:42:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:43:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:43:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:44:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:44:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:45:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:45:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:46:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:46:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:47:05] > D:\Temp\XML\1\currencyData_2022_10_05.txt 
+05.10.2022 [4:47:05] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:47:35] > TSampleService.Stop 
+05.10.2022 [4:48:06] > TSampleService.ServiceStart 
+05.10.2022 [4:48:06] > folder for XML: D:\Temp\XML; folder for JSON: D:\Temp\JSON 
+05.10.2022 [4:48:06] > Thread Running... 
+05.10.2022 [4:48:06] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:48:06] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:48:06] > # 
+05.10.2022 [4:48:06] > ...function getData... 
+05.10.2022 [4:48:07] > ...function getData... 
+05.10.2022 [4:48:07] > {"Cur_ID":431,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Ð”Ð¾Ð»Ð»Ð°Ñ€ Ð¡Ð¨Ð","Cur_OfficialRate":2.4860} 
+05.10.2022 [4:48:07] > ...function getData... 
+05.10.2022 [4:48:07] > {"Cur_ID":456,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"RUB","Cur_Scale":100,"Cur_Name":"Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ¸Ñ… Ñ€ÑƒÐ±Ð»ÐµÐ¹","Cur_OfficialRate":4.2415} 
+05.10.2022 [4:48:07] > ...function getData... 
+05.10.2022 [4:48:07] > {"Cur_ID":451,"Date":"2022-10-05T00:00:00","Cur_Abbreviation":"EUR","Cur_Scale":1,"Cur_Name":"Ð•Ð²Ñ€Ð¾","Cur_OfficialRate":2.3759} 
+05.10.2022 [4:48:17] > Íà ñåãîäíÿ ôàéëû ñ êóðñàìè âàëþò ñôîðìèðîâàíû 
+05.10.2022 [4:49:17] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:49:17] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:50:17] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:50:17] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:51:17] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:51:17] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:52:17] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:52:17] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:53:17] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:53:17] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:54:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:54:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:55:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:55:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:56:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:56:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:57:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:57:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:58:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:58:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [4:59:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [4:59:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:00:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:00:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:01:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:01:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:02:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:02:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:03:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:03:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:04:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:04:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:05:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:05:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:06:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:06:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:07:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:07:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:08:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:08:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:09:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:09:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:10:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:10:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:11:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:11:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:12:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:12:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
+05.10.2022 [5:13:18] > D:\Temp\XML\currencyData_2022_10_05.txt 
+05.10.2022 [5:13:18] > D:\Temp\JSON\currencyData_2022_10_05.txt 
